@@ -20,7 +20,7 @@
       "prefix": "app",
       "styles": [
         "styles.css",
-        "unicorn-app-theme.scss"
+        "swag-app-theme.scss"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
